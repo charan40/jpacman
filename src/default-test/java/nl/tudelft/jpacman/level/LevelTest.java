@@ -154,4 +154,5 @@ class LevelTest {
         level.registerPlayer(p3);
         verify(p3).occupy(square1);
     }
+
 }
